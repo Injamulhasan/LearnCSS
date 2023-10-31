@@ -1,0 +1,35 @@
+p{
+  color: aliceblue;
+  margin: 50px;
+  border: 5px solid purple;
+  outline: 10px solid blue ;
+  outline-offset: 10px;
+  text-align: center;
+
+  /* outline-width: 10px;
+  outline-style: solid;
+  outline-color: blue;
+  outline-offset: 5px;  */
+
+}
+
+body{
+  color: aliceblue;
+  background-color: #414141;
+}
+
+h1{
+  color: blueviolet;
+  background-color: aquamarine;
+  text-align: center;
+}
+
+/* id text-style */
+#text-style{
+  color: wheat;
+  text-transform: uppercase;
+  text-indent: 55px;
+  letter-spacing: 5px;
+  word-spacing: 35px;
+  line-height: 50px;
+}
