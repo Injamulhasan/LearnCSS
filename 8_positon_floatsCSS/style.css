@@ -75,3 +75,15 @@ border-radius: 50%;
   bottom: 0;
   right: 0;
 }
+
+
+.img1{
+  width: 400px;
+  height: 400px;
+  float: right;
+}
+
+p{
+  clear: both;
+  text-align: center;
+}
