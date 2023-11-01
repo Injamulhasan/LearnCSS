@@ -1,0 +1,19 @@
+.p1{
+  border: 5px solid green;
+  width: 400px;
+  margin: auto;
+}
+
+.p2{
+  border: 3px solid crimson;
+  max-width: 400px;
+  margin: auto;
+}
+
+.p3{
+  width: 400px;
+  height: 300px;
+  margin: auto;
+  border: 5px solid blue;
+  overflow: auto;
+}
