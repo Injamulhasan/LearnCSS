@@ -1,8 +1,47 @@
-.b3{
-  width: 700px;
+.b1{
+  border: 3px solid tomato;
+  width: 1000px;
   height: 600px;
-  border: 5px solid orange;
-  background-color: green;
+  background-color: wheat;
+  /* absolute,relative,sticky,fixed */
+  position: relative; 
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0; 
+  margin: auto;
+}
+
+.b2{
+  width: 400px;
+  height: 400px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+border-radius: 50%;
+  background-color: #414141;
+}
+
+.name{
+  border: 5px solid black;
+  text-align: center;
+  font-size: xxx-large;
+  width: 300px;
+  background-color: tomato;
+  color: aliceblue;
+  margin: auto;
+  position: sticky;
+  top: 0;
+
+}
+
+.b3{
+  width: 1000px;
+  height: 600px;
+  background-color: wheat;
   /* absolute,relative */
   position: relative; 
   top: 0;
@@ -22,32 +61,17 @@
   right: 0;
   margin: auto;
 border-radius: 50%;
-  background-color: red;
-}
-
-
-.b1{
-  width: 1000px;
-  height: 600px;
-  background-color: wheat;
-  /* absolute,relative */
-  position: absolute; 
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0; 
-  margin: auto;
-}
-
-.b2{
-  width: 400px;
-  height: 400px;
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  margin: auto;
-border-radius: 50%;
   background-color: #414141;
+}
+
+
+/* p{
+  padding-bottom: 1500px
+} */
+
+
+.ak{
+  position: fixed;
+  bottom: 0;
+  right: 0;
 }
