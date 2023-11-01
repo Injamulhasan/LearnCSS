@@ -1,0 +1,52 @@
+h2{
+  text-align: center;
+}
+
+
+.t1,th,td{
+  border: 5px solid orangered;
+  border-collapse: collapse;
+  text-align: left;
+}
+
+
+table{
+  width: 100%;
+  height: 300px;
+}
+
+#x{
+  border: 5px solid orangered;
+}
+#k{
+  border: 5px solid orangered;
+}
+#m{
+  border: 5px solid orangered;
+}
+
+
+/* #z{
+  border: 5px solid orangered;
+} */
+
+.t2,th,td{
+  border: 3px solid purple;
+  border-collapse: separate;
+  text-align: center;
+}
+
+/* --------------------------------- */
+/* convert inline to block | block to inline elements  */
+/*  */
+.btoin{
+  text-align: center;
+  display: inline-block; /* block to inline */
+
+}
+
+.intob{
+  text-align: center;
+  display: block;  /* inline to block */
+
+}
