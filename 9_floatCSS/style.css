@@ -1,0 +1,15 @@
+.img1{
+  width: 400px;
+  height: 400px;
+  float: right;
+  margin: 50px;
+}
+
+p{
+  clear: left;
+  text-align: center;
+  position: relative;
+  top: 100px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: italic;
+}

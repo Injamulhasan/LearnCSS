@@ -1,0 +1,28 @@
+a:hover{   
+  /* peseudo class */
+  color: white;
+  background-color: black;
+}
+
+h2:nth-child(4){
+  color: wheat;
+}
+
+h2:sixth-child{
+  color: red;
+}
+
+/* peseoudo element */
+
+p{
+  font-size: larger;
+}
+
+p::first-line{
+  color: red;
+  font-size: xx-large;
+}
+
+h1::after{
+  content: url(starbucks.png);
+}
