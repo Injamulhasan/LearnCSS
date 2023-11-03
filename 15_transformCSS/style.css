@@ -1,0 +1,70 @@
+body{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+h1{
+  text-align: center;
+}
+
+.box{
+  width: 450px;
+  height: 450px;
+  background-color: tomato;
+  margin: 100px auto;
+  position: relative;
+  transform: rotate(-45deg);
+}
+
+.box h2{
+  text-align: center;
+  color: aliceblue;
+  font-size: 35px;
+  position: relative;
+  top: 45%;
+
+}
+
+
+.box2{
+  width: 450px;
+  height: 450px;
+  background-color: purple;
+  margin: 100px auto;
+  position: relative;
+  transform: scale(0.5);
+  /* scaleX(2) -- extend in x axis*/
+  /* scaley(2) 0-- extend in y axis */
+}
+
+.box2 h2{
+  text-align: center;
+  color: aliceblue;
+  font-size: 35px;
+  position: relative;
+  top: 45%;
+
+}
+
+
+.box3{
+  width: 350px;
+  height: 350px;
+  background-color: purple;
+  margin: 100px auto;
+  position: relative;
+  transform: skew(45deg);
+  /* skewX(2) -- andle in x axis*/
+  /* skewy(2) 0-- angle in y axis */
+}
+
+.box3 h2{
+  text-align: center;
+  color: aliceblue;
+  font-size: 35px;
+  position: relative;
+  top: 45%;
+
+}
+
+/*  translate(x,y) ex:(0,200px)  */
