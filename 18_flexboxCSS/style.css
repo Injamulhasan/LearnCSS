@@ -1,0 +1,30 @@
+/* flex bos is one direction  */
+
+.flexbox{
+  background-color: aquamarine;
+  font-size: 40px;
+  /* flex-wrap: wrap; */
+  /* can do reverse */
+  /* flex-direction: row-reverse; */
+  /* can do colum ,reverse */
+  flex-flow: wrap row;
+  justify-content: center;
+  /* can do left right start end  and so on */
+  height: 400px;
+  align-items: center;
+
+
+
+}
+
+
+div {
+  background-color: blueviolet;
+  display: flex;
+  margin: 5px;
+  padding: 5px;
+}
+
+.div:nth-child(2){
+  order: 1;
+}
