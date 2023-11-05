@@ -9,7 +9,7 @@ Hello there, fellow coding enthusiast! Whether you're a beginner taking your fir
 
 This repository is only for learning CSS styling . Here, I've curated a collection of hands-on tutorials, interactive examples,resources and real-world projects designed to help you understand CSS from the ground up. From basic styling to advanced layouts and animations, I've got you covered.
 
-## Why Learn CSS with Us?
+## Why Learn CSS with me?
 
 At Learn CSS, I believe in the power of practical learning.All the resources in this repository are crafted with simplicity and clarity in mind, making complex CSS concepts easy to grasp. Whether you prefer to read through comprehensive guides, dive into interactive coding exercises, or explore creative projects, I have something for every learning style.
 
