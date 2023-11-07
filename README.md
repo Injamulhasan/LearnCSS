@@ -40,6 +40,10 @@ You need following skills to start with
 ## Resource URLs 👇
  - [Modern CSS3 Tutorial](https://www.w3schools.com/css/default.asp)
 
+## Project 👇
+ Glow Card:
+ - https://github.com/Injamulhasan/LearnCSS/assets/102874510/bd982ec4-c92f-4862-87bc-c8436f274da1
+
 
 ## 🥰 Follow me
 - [@Github](https://github.com/Injamulhasan) 
