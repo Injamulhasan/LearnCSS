@@ -1,0 +1,46 @@
+/* footer part starts */
+footer{
+  width: 100%;
+  position: absolute;
+  bottom: 0 ;
+  text-align: center;
+  background-color: #414141;
+  color: azure;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.hf h2{
+  font-size: xx-large;
+  font-weight: bold;
+  color: #2ecc71;
+}
+
+
+.text p{
+  width: 500px;
+  position: relative;
+  text-align: center;
+  margin: 30px auto;
+}
+
+
+.icon i {
+  font-size: 40px;
+  margin: 40px;
+  position: relative;
+  top: -20px;
+  padding: 10px;
+  color: #2ecc71;
+}
+
+.copy {
+  width: 100%;
+  background-color: black;
+  height: 70px;
+  line-height: 70px;
+  font-size: 19px;
+}
+/*    footer part end */
+
+
