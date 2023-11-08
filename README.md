@@ -42,10 +42,16 @@ You need following skills to start with
 
 ## Project 👇
 
- Simple Form
+ WebChatBox Design:
+ 
+ - https://github.com/Injamulhasan/LearnCSS/assets/102874510/057ac15f-b970-4d3b-95c2-0580077d78bf
+
+ Simple Form Design:
+
  - https://github.com/Injamulhasan/LearnCSS/assets/102874510/4a23d75a-2cd4-4298-8dbf-8c40480160f7
  
- Glow Card:
+ Glow Card Design:
+
  - https://github.com/Injamulhasan/LearnCSS/assets/102874510/bd982ec4-c92f-4862-87bc-c8436f274da1
 
 
