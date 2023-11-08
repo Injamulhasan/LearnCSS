@@ -41,6 +41,10 @@ You need following skills to start with
  - [Modern CSS3 Tutorial](https://www.w3schools.com/css/default.asp)
 
 ## Project 👇
+
+ Simple Form
+ - https://github.com/Injamulhasan/LearnCSS/assets/102874510/4a23d75a-2cd4-4298-8dbf-8c40480160f7
+ 
  Glow Card:
  - https://github.com/Injamulhasan/LearnCSS/assets/102874510/bd982ec4-c92f-4862-87bc-c8436f274da1
 
