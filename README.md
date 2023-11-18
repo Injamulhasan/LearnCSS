@@ -54,13 +54,11 @@ You need following skills to start with
 
  - https://github.com/Injamulhasan/LearnCSS/assets/102874510/bd982ec4-c92f-4862-87bc-c8436f274da1
 
- Responsive Web Desigin With Midea Queries
+ Responsive Web Desigin With Media Queries
 
-- [screencapture-1.pdf](https://github.com/Injamulhasan/LearnCSS/files/13400165/screencapture-1.pdf)
+- ![screencapture-1](https://github.com/Injamulhasan/LearnCSS/assets/102874510/79633d6c-6b45-4f58-9bd9-9596cb85cf9d)
 
 - ![screencapture-2](https://github.com/Injamulhasan/LearnCSS/assets/102874510/64a814e5-b35c-4b70-b3ef-b1e05dc90432)
-
-https://github.com/Injamulhasan/LearnCSS/blob/d71241d992440fd4d9b47041f2f0b62d1576deff/project3_responsivesite_mediaQ/screencapture-3.png
 
 
 
