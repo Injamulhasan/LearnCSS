@@ -1,0 +1,117 @@
+* ,
+*::after ,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {  
+  --clr-primary: #ee6352;
+  --clr-primary1: rgb(75, 184, 12);
+  --clr-secondary: #d16e8d;
+  --clr-accent: #F7F7FF;
+  --clr-gradient: linear-gradient(-45deg, var(--clr-primary), var(--clr-secondary));
+  --ff-title: bungee, sans-serif;
+  --ff-body: canada-type-gibson,sans-serif;
+  --fw-body: 300;
+  --fw-bold: 800;
+  --fw-title: 400;
+  --fw-number: 800;
+}
+
+body {
+  background-color: #414141;
+  min-height: 100vh;
+  font-family: var(--fw-body);
+  font-weight: var(--fw-body);
+  font-size: 1.55rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* justify-content: center; */
+}
+
+.container {
+
+  width: 50%;
+  margin: 50px auto;
+  /* border: 10px solid var(--clr-secondary); */
+}
+
+.flex-parent {
+
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  /* border: .4em solid rgb(143, 134, 136); */
+}
+
+.flex-item {
+  width: max-content;
+  /* width: 1000px; */
+  padding: .5em;
+  border: .3em solid var(--clr-accent);
+  background: var(--clr-gradient);
+  color: var(--clr-accent);
+}
+
+
+
+/* =========================Flex shrink =========================*/
+.container1 {
+
+  width: 50%;
+  margin: 50px auto;
+  /* border: 10px solid var(--clr-secondary); */
+}
+
+h2 {
+  color: antiquewhite;
+  text-align: center;
+  background: var(--clr-secondary);
+}
+
+.flex-parent1 {
+  margin-top: 30px;
+  display: flex;
+  border: 5px solid var(--clr-primary);
+}
+
+.flex-item1 {
+  padding: .5em;
+  background: #efefef;
+}
+
+.flex-item_no-shrink {
+  border: 1px solid black;
+  background: #efefef;
+  padding: .5em;
+  flex-shrink: 1;
+}
+
+/* ========================= Simple Example =========================*/
+
+.flex-parent2 {
+  display: flex;
+  width: 600px;
+  margin: 0.5em auto;
+  outline: 3px solid rgb(195, 0, 255);
+  
+}
+
+.flex-item2 {
+  width: 200px;
+  background: #efefef;
+  outline: 5px solid rgb(224, 155, 26);
+  /* flex-shrink: 0; */
+}
+
+.flex-item2-big {
+  width: 600px;
+  background: #efefef;
+  outline: 5px solid orangered;
+  flex-shrink: 1;
+}
