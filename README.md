@@ -72,7 +72,4 @@ Glow Card Design:
 
 ## 🥰 Follow me
 
-- [@Github](https://github.com/Injamulhasan)
-- [@Linkedin](https://www.linkedin.com/in/helloinjamul/)
-- [@Twitter](https://twitter.com/injamulhasan)
-- [@Instagram](https://www.instagram.com/injamulhasan_/)
+[@Github](https://github.com/Injamulhasan)        [@Linkedin](https://www.linkedin.com/in/helloinjamul/)         [@Twitter](https://twitter.com/injamulhasan)        [@Instagram](https://www.instagram.com/injamulhasan_/)
